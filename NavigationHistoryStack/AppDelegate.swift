@@ -26,6 +26,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didDiscardSceneSessions sceneSessions: Set<UISceneSession>) {
     }
     
+    /// Reference : https://sarunw.com/posts/what-should-you-know-about-navigation-history-stack-in-ios14/#:~:text=With%20iOS%2014%2C%20if%20you,bring%20up%20the%20history%20stack.
     private func applyBackButtonTitleTransparency() {
         let appearance = UINavigationBarAppearance()
         appearance.configureWithDefaultBackground()
