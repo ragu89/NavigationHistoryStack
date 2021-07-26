@@ -1,4 +1,5 @@
-# NavigationHistoryStack
+# Navigation history stack on iOS 14
+
 From the [blog post](https://sarunw.com/posts/what-should-you-know-about-navigation-history-stack-in-ios14/) of [sarunw](https://github.com/sarunw) we can read:
 ![ios 14 history stack intro](https://github.com/ragu89/NavigationHistoryStack/blob/main/assets/readme-intro.png)
 
